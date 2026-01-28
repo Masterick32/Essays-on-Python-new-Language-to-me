@@ -1,0 +1,11 @@
+edad = int(input("Ingresa tu edad: "))
+nombre = input("Ingresa tu nombre")
+
+if edad >= 18:
+    print(f"{nombre}eres mayor de edad")
+    
+else:
+    print(f"{edad}eres menor de edad")
+
+
+## this code tell if you are over 18 eight or down 18 years old
